@@ -1,0 +1,23 @@
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\bin\Debug\net8.0-windows\Evaluation UA1.exe
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\bin\Debug\net8.0-windows\Evaluation UA1.deps.json
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\bin\Debug\net8.0-windows\Evaluation UA1.runtimeconfig.json
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\bin\Debug\net8.0-windows\Evaluation UA1.dll
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\bin\Debug\net8.0-windows\Evaluation UA1.pdb
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\App.g.cs
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1_MarkupCompile.cache
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1_MarkupCompile.lref
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1.g.resources
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1.AssemblyInfoInputs.cache
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1.AssemblyInfo.cs
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1.csproj.CoreCompileInputs.cache
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1.dll
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\refint\Evaluation UA1.dll
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1.pdb
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\Evaluation UA1.genruntimeconfig.cache
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\ref\Evaluation UA1.dll
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\style\ButtonStyl.baml
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\App.baml
+D:\ApplicationBureau\Evaluation UA1\Evaluation UA1\obj\Debug\net8.0-windows\style\LabelStyl.baml

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ApplicationBureau\\Evaluation UA1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|d:\\applicationbureau\\evaluation ua1\\evaluation ua1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|solutionrelative:evaluation ua1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|d:\\applicationbureau\\evaluation ua1\\evaluation ua1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|solutionrelative:evaluation ua1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|d:\\applicationbureau\\evaluation ua1\\evaluation ua1\\style\\buttonstyl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|solutionrelative:evaluation ua1\\style\\buttonstyl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|d:\\applicationbureau\\evaluation ua1\\evaluation ua1\\style\\labelstyl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|solutionrelative:evaluation ua1\\style\\labelstyl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|d:\\applicationbureau\\evaluation ua1\\evaluation ua1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|solutionrelative:evaluation ua1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|d:\\applicationbureau\\evaluation ua1\\evaluation ua1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21595914-B212-4276-901B-8F6E0A933DB9}|Evaluation UA1\\Evaluation UA1.csproj|solutionrelative:evaluation ua1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Evaluation UA1\\MainWindow.xaml",
+              "ToolTip": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\MainWindow.xaml",
+              "RelativeToolTip": "Evaluation UA1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T23:16:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Evaluation UA1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Evaluation UA1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:16:00.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonStyl.xaml",
+              "DocumentMoniker": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\style\\ButtonStyl.xaml",
+              "RelativeDocumentMoniker": "Evaluation UA1\\style\\ButtonStyl.xaml",
+              "ToolTip": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\style\\ButtonStyl.xaml",
+              "RelativeToolTip": "Evaluation UA1\\style\\ButtonStyl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T14:29:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\App.xaml",
+              "RelativeDocumentMoniker": "Evaluation UA1\\App.xaml",
+              "ToolTip": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\App.xaml",
+              "RelativeToolTip": "Evaluation UA1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T03:16:13.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabelStyl.xaml",
+              "DocumentMoniker": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\style\\LabelStyl.xaml",
+              "RelativeDocumentMoniker": "Evaluation UA1\\style\\LabelStyl.xaml",
+              "ToolTip": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\style\\LabelStyl.xaml",
+              "RelativeToolTip": "Evaluation UA1\\style\\LabelStyl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T02:39:30.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Evaluation UA1\\AssemblyInfo.cs",
+              "ToolTip": "D:\\ApplicationBureau\\Evaluation UA1\\Evaluation UA1\\AssemblyInfo.cs",
+              "RelativeToolTip": "Evaluation UA1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:05:48.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
